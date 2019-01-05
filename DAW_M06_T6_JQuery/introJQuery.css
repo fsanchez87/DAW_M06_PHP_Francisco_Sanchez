@@ -29,9 +29,11 @@ body>div{
     height: auto;
     width: 200px;
     position:relative;
+    
 }
 .contentImg>img{
     width: 200px;
+    
 }
 .contentImg>div{
     opacity: 0.7;
